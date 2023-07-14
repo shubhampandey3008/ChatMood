@@ -30,10 +30,6 @@ ChatMood offers a wide array of analytics and visualizations, including:
 - **Word Cloud**: A visualization of the most frequently used words. This can highlight common topics or themes in the chat.
 
 
-## :gear: Usage
-
-<!-- Add instructions on how to use your app here -->
-
 ## :wrench: Installation 
 
 Follow these steps to get ChatMood up and running on your local machine:
@@ -52,6 +48,7 @@ pip install -r requirements.txt
 
 # Run the Application
 streamlit run app.py
+```
 
 ## :gear: Usage
 
