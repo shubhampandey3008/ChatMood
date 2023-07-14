@@ -10,8 +10,12 @@ The standout feature of ChatMood is its unique sentiment analysis. This app expe
   <tr>
     <td> <img src="https://github.com/shubhampandey3008/WhatsappChatSentimentAnalyzer/blob/main/whatsappChatAnalyzer_ss/sideBar.png"  height="400"> </td>
     <td> <img src="https://github.com/shubhampandey3008/WhatsappChatSentimentAnalyzer/blob/main/whatsappChatAnalyzer_ss/firstPart.png"  height="400"> </td>
+  </tr>
+  <tr>
     <td> <img src="https://github.com/shubhampandey3008/WhatsappChatSentimentAnalyzer/blob/main/whatsappChatAnalyzer_ss/wordCloud.png" height="400"> </td>
     <td> <img src="https://github.com/shubhampandey3008/WhatsappChatSentimentAnalyzer/blob/main/whatsappChatAnalyzer_ss/sentimentScore.png"  height="400"> </td>
+  </tr>
+  <tr>
     <td> <img src="https://github.com/shubhampandey3008/WhatsappChatSentimentAnalyzer/blob/main/whatsappChatAnalyzer_ss/topScorers.png"  height="400"> </td>
   </tr>
 </table>
