@@ -11,14 +11,6 @@ The standout feature of ChatMood is its unique sentiment analysis. This app expe
 ![Screenshot3](https://drive.google.com/file/d/1koRup_jBmKWY_PnNXMQ_nbrM66W8_G_f/view?usp=sharing)
 ![Screenshot4](https://drive.google.com/file/d/1v1RgF1Kark3p-S-oaZLw38pATuzQ8I9F/view?usp=sharing)
 ![Screenshot5](https://drive.google.com/file/d/143NREr9oNcsewjNRCBwAv0nUOwXLwwpm/view?usp=sharing)
-<!-- Add more screenshots if needed -->
-
-<!-- rest of the readme file -->
-
-
-![Screenshot1](link-to-screenshot1-goes-here)
-![Screenshot2](link-to-screenshot2-goes-here)
-<!-- Add more screenshots if needed -->
 
 ## :star: Features
 
