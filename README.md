@@ -6,11 +6,16 @@ Powered by NLP, ChatMood transforms the raw chat data into meaningful insights. 
 
 The standout feature of ChatMood is its unique sentiment analysis. This app expertly handles 'Hinglish' conversations. It uses a special lexicon file where individual 'Hinglish' words are manually scored from 0 to 1 based on the emotions they represent. By reading and applying these scores, ChatMood effectively captures the sentiment of bilingual conversations, showcasing its versatility and inclusivity.
 
-<img src="https://github.com/shubhampandey3008/WhatsappChatSentimentAnalyzer/blob/main/whatsappChatAnalyzer_ss/sideBar.png"  height="400">
-<img src="https://github.com/shubhampandey3008/WhatsappChatSentimentAnalyzer/blob/main/whatsappChatAnalyzer_ss/firstPart.png"  height="400">
-<img src="https://github.com/shubhampandey3008/WhatsappChatSentimentAnalyzer/blob/main/whatsappChatAnalyzer_ss/wordCloud.png" height="400">
-<img src="https://github.com/shubhampandey3008/WhatsappChatSentimentAnalyzer/blob/main/whatsappChatAnalyzer_ss/sentimentScore.png"  height="400">
-<img src="https://github.com/shubhampandey3008/WhatsappChatSentimentAnalyzer/blob/main/whatsappChatAnalyzer_ss/topScorers.png"  height="400">
+<table>
+  <tr>
+    <td> <img src="https://github.com/shubhampandey3008/WhatsappChatSentimentAnalyzer/blob/main/whatsappChatAnalyzer_ss/sideBar.png"  height="400"> </td>
+    <td> <img src="https://github.com/shubhampandey3008/WhatsappChatSentimentAnalyzer/blob/main/whatsappChatAnalyzer_ss/firstPart.png"  height="400"> </td>
+    <td> <img src="https://github.com/shubhampandey3008/WhatsappChatSentimentAnalyzer/blob/main/whatsappChatAnalyzer_ss/wordCloud.png" height="400"> </td>
+    <td> <img src="https://github.com/shubhampandey3008/WhatsappChatSentimentAnalyzer/blob/main/whatsappChatAnalyzer_ss/sentimentScore.png"  height="400"> </td>
+    <td> <img src="https://github.com/shubhampandey3008/WhatsappChatSentimentAnalyzer/blob/main/whatsappChatAnalyzer_ss/topScorers.png"  height="400"> </td>
+  </tr>
+</table>
+
 
 ## :star: Features
 
