@@ -7,10 +7,10 @@ Powered by NLP, ChatMood transforms the raw chat data into meaningful insights. 
 The standout feature of ChatMood is its unique sentiment analysis. This app expertly handles 'Hinglish' conversations. It uses a special lexicon file where individual 'Hinglish' words are manually scored from 0 to 1 based on the emotions they represent. By reading and applying these scores, ChatMood effectively captures the sentiment of bilingual conversations, showcasing its versatility and inclusivity.
 
 <img src="https://github.com/shubhampandey3008/WhatsappChatSentimentAnalyzer/blob/main/whatsappChatAnalyzer_ss/sideBar.png"  height="400">
-![Screenshot2](https://drive.google.com/file/d/1p_TbrJCuaoDpAY3HSHFZAd1cf-QDsKV5/view?usp=sharing)
-![Screenshot3](https://drive.google.com/file/d/1koRup_jBmKWY_PnNXMQ_nbrM66W8_G_f/view?usp=sharing)
-![Screenshot4](https://drive.google.com/file/d/1v1RgF1Kark3p-S-oaZLw38pATuzQ8I9F/view?usp=sharing)
-![Screenshot5](https://drive.google.com/file/d/143NREr9oNcsewjNRCBwAv0nUOwXLwwpm/view?usp=sharing)
+<img src="https://github.com/shubhampandey3008/WhatsappChatSentimentAnalyzer/blob/main/whatsappChatAnalyzer_ss/firstPart.png"  height="400">
+<img src="https://github.com/shubhampandey3008/WhatsappChatSentimentAnalyzer/blob/main/whatsappChatAnalyzer_ss/wordCloud.png" height="400">
+<img src="https://github.com/shubhampandey3008/WhatsappChatSentimentAnalyzer/blob/main/whatsappChatAnalyzer_ss/sentimentScore.png"  height="400">
+<img src="https://github.com/shubhampandey3008/WhatsappChatSentimentAnalyzer/blob/main/whatsappChatAnalyzer_ss/topScorers.png"  height="400">
 
 ## :star: Features
 
