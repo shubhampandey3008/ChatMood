@@ -53,3 +53,18 @@ pip install -r requirements.txt
 # Run the Application
 streamlit run app.py
 
+## :gear: Usage
+
+Once ChatMood is up and running on your local machine, the next step is to export your WhatsApp chat:
+
+1. **Exporting WhatsApp Chat**: WhatsApp allows you to export your individual or group chats to a text file. This can be done directly from the WhatsApp app. It's important to note that the **date and time should be in the 24-hour format**.
+
+2. **Uploading the Chat File**: Navigate to the ChatMood application on your browser. Here, you'll find an option to upload the exported chat file. 
+
+3. **Choosing the User**: After uploading, if it is a group chat, you'll need to select the specific user you want to analyze. You can also choose 'Overall' to analyze the entire group's chat data.
+
+If you've uploaded an individual chat, ChatMood will automatically start the analysis, as there's only one user to analyze.
+
+Through ChatMood, you can dive into various metrics, trends, and sentimental analyses of your WhatsApp conversations, both at an individual and group level.
+
+
