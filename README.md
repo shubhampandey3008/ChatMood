@@ -19,14 +19,16 @@ The standout feature of ChatMood is its unique sentiment analysis. This app expe
 
 ## :star: Features
 
-ChatMood provides various metrics and visualizations including:
+ChatMood offers a wide array of analytics and visualizations, including:
 
-- **Basic chat statistics** including total messages, total words, total media, and total links.
-- **Temporal analysis** with graphs of messages per month and average messages per day.
-- **Activity analysis** mapping the number of messages per weekday and the busiest chat days.
-- **User analysis** with a bar graph of the most active users.
-- **Word cloud** visualization of the most frequently used words.
-- **Sentiment Analysis** scores from 0 (most negative) to 10 (most positive) for overall chat and individual users.
+- **Sentiment Score**: This is a quantification of the overall sentiment of the group chat, ranging from 0 (most negative) to 1 (most positive). This score reflects the mood of the conversation, giving you a sense of the tone and vibe in the group.
+- **Top Sentiment Scorers**: A bar graph showcasing the users with the highest sentiment scores, ranking them based on their positivity. This reveals the most positive contributors in the group.
+- **Basic Chat Statistics**: Including total messages, total words, total media, and total links. This gives you a quick rundown of the chat activity.
+- **Temporal Analysis**: Graphs of messages per month and average messages per day, providing a temporal view of chat activity.
+- **Activity Analysis**: Mapping the number of messages per weekday and the busiest chat days. This tells you when the group is most active.
+- **User Analysis**: A bar graph of the most active users. This indicates who are the major contributors in the group.
+- **Word Cloud**: A visualization of the most frequently used words. This can highlight common topics or themes in the chat.
+
 
 ## :gear: Usage
 
