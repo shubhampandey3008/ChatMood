@@ -36,21 +36,20 @@ ChatMood offers a wide array of analytics and visualizations, including:
 
 ## :wrench: Installation 
 
-<!-- Add instructions on how to install your app here -->
+Follow these steps to get ChatMood up and running on your local machine:
 
-## :handshake: Contributing
+This guide assumes you have Python 3.8, pip, and git installed on your machine. If you have a different version of Python, consider using a virtual environment or Docker to avoid any conflicts.
 
-Contributions, issues, and feature requests are welcome!
+```bash
+# Clone the Repository
+git clone https://github.com/shubhampandey3008/WhatsappChatSentimentAnalyzer.git
 
-## :memo: License
+# Navigate to the Cloned Directory
+cd WhatsappChatSentimentAnalyzer
 
-<!-- Add license information here -->
+# Install Required Packages
+pip install -r requirements.txt
 
-## :mailbox: Contact
-
-<!-- Add contact information here -->
-
-## :trophy: Acknowledgements
-
-<!-- Acknowledge the work of others here -->
+# Run the Application
+streamlit run app.py
 
